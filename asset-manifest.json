@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d74f9a30.css",
+    "main.js": "/static/js/main.be6cc795.js",
+    "static/media/titanic.jpg": "/static/media/titanic.40740e36eb03b3fc943f.jpg",
+    "static/media/SOS.jpg": "/static/media/SOS.05394796141139e4f38e.jpg",
+    "static/media/btc.jpg": "/static/media/btc.266de444f81179472050.jpg",
+    "index.html": "/index.html",
+    "main.d74f9a30.css.map": "/static/css/main.d74f9a30.css.map",
+    "main.be6cc795.js.map": "/static/js/main.be6cc795.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d74f9a30.css",
+    "static/js/main.be6cc795.js"
+  ]
+}
